@@ -1,2 +1,2 @@
 
-# Ez az órai anyagnak az ismétlése"
+# Ez az órai anyag gyakorlása
